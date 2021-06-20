@@ -1,4 +1,3 @@
-"use strick";
 
 const secondsHand = document.querySelector(".second-hand");
 const minHand = document.querySelector(".min-hand");
